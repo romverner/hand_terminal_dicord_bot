@@ -1,0 +1,23 @@
+{
+  "name": "diceroller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-datetime": "^2.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
